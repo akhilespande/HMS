@@ -1,0 +1,4 @@
+#Specify the file extension that you dont want to be commited in repo
+*.class
+*.txt
+*.exe
